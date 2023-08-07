@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/codeharry1/static/css/main.2784506f.css",
+    "main.js": "/codeharry1/static/js/main.a62d97a0.js",
+    "static/js/787.c0be4319.chunk.js": "/codeharry1/static/js/787.c0be4319.chunk.js",
+    "static/media/logo.svg": "/codeharry1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codeharry1/index.html",
+    "main.2784506f.css.map": "/codeharry1/static/css/main.2784506f.css.map",
+    "main.a62d97a0.js.map": "/codeharry1/static/js/main.a62d97a0.js.map",
+    "787.c0be4319.chunk.js.map": "/codeharry1/static/js/787.c0be4319.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.a62d97a0.js"
+  ]
+}
